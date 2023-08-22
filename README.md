@@ -1,4 +1,4 @@
-<h1>JWipe - Stock Market Data Lab</h1>
+<h1> Stock Market Data Lab</h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
