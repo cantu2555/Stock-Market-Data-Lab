@@ -27,8 +27,8 @@ observed correlations:  <br/>
 <img src="https://i.imgur.com/4p7Sttr.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ log distribution analysis on returns: <br/>
+<img src="https://i.imgur.com/BByQg6H.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
