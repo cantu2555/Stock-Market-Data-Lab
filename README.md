@@ -1,6 +1,6 @@
 <h1> Stock Market Data Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ 
 
 <h2>Description</h2>
 This project entails a comprehensive examination of stock data through the application of advanced data exploration and analysis techniques. By leveraging historical data from a carefully selected set of four stocks, this endeavor harnesses the power of cumulative distribution functions, intricate statistical relationships, logarithmic distributions, and intricate time series regression.
